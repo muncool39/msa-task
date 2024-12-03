@@ -3,7 +3,7 @@ package com.sparta.msa_exam.auth.service;
 
 import com.sparta.msa_exam.auth.api.request.SignInRequest;
 import com.sparta.msa_exam.auth.api.request.SignUpRequest;
-import com.sparta.msa_exam.auth.config.TokenProvider;
+import com.sparta.msa_exam.auth.util.TokenProvider;
 import com.sparta.msa_exam.auth.domain.User;
 import com.sparta.msa_exam.auth.exception.AuthCustomException;
 import com.sparta.msa_exam.auth.exception.AuthErrorCode;

@@ -1,4 +1,4 @@
-package com.sparta.msa_exam.auth.config;
+package com.sparta.msa_exam.auth.util;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Header;
